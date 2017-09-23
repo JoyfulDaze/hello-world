@@ -1,0 +1,57 @@
+body {
+  background-color: #e8f3f8;
+}
+
+h3 {
+  font-family: fantasy;
+  color: steelblue;
+  margin-left: 40px;
+}
+
+input {
+  border-color: blue;
+  border-style: solid;
+}
+
+form li {
+  list-style: none;
+  margin-bottom: 10px;
+
+}
+
+h1 {
+  margin-left: 40px;
+}
+
+#Albums {
+  background-color: black;
+}
+
+#Movies  {
+  position: relative;
+  left: 200px;
+  top: -240px;
+  background-color: silver;
+}
+
+#Books  {
+  position: relative;
+  left: 400px;
+  top: -480px;
+  background-color: red;
+}
+
+#Games  {
+  position: relative;
+  left: 600px;
+  top: -720px;
+  background-color: purple;
+}
+
+#TVShows  {
+  position: relative;
+  left: 800px;
+  top: -960px;
+  background-color: green;
+  width: 600px;
+}

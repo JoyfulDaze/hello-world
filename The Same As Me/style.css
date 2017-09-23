@@ -1,0 +1,65 @@
+body {
+  background-color: #e8f3f8;
+}
+
+h3 {
+  font-family: fantasy;
+  color: steelblue;
+  margin-left: 40px;
+}
+
+input {
+  border-color: blue;
+  border-style: solid;
+}
+
+form li {
+  list-style: none;
+  margin-bottom: 10px;
+}
+
+h1 {
+  margin-left: 40px;
+}
+
+#Albums {
+  width: 200px;
+  background-image: url('images/music_logo.jpg');
+  background-position: top;
+}
+
+#Movies  {
+  position: relative;
+  left: 200px;
+  top: -245px;
+  background-image: url('images/movies.jpg');
+  width: 200px;
+  margin-left: 20px;
+}
+
+#Books  {
+  position: relative;
+  left: 400px;
+  top: -490px;
+  background-image: url('images/book.jpg');
+  width: 200px;
+  margin-left: 40px;
+}
+
+#Games  {
+  position: relative;
+  left: 600px;
+  top: -735px;
+  background-image: url('images/simple_game_pad.jpg');
+  width: 200px;
+  margin-left: 60px;
+}
+
+#TVShows  {
+  position: relative;
+  left: 800px;
+  top: -980px;
+  background-image: url('images/tv-clipart-television.jpg');
+  width: 200px;
+  margin-left: 80px;
+}
